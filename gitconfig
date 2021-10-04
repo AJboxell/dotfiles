@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alexjboxell@gmail.com
+	name = Alex Boxell
